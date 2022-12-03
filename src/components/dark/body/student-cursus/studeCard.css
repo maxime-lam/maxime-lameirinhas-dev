@@ -1,0 +1,29 @@
+.stude-name{
+    font-size: 20px;
+}
+.stude-real{
+    font-size: 15px;
+}
+.stude-card{
+    width: max-content;
+    padding: 8px;
+    height: 215px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+.stude-desc {
+ justify-content: center;
+}
+
+
+.CardBody {
+    width: 280px;
+    height: 230px;
+    padding-bottom: 10%;
+    border-collapse: separate;
+}

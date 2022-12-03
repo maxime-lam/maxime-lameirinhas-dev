@@ -1,0 +1,43 @@
+.studentCursus {
+    display: flex;
+    flex-direction: column;
+    width: 88%;
+}
+
+.section-title {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.firstYear, .secondYear, .outOfCourt {
+    width: 100%;
+    height: 100%;
+    display:grid;
+	grid-template-columns: repeat(auto-fit, minmax(280px,1fr));
+    justify-content: center;
+    align-items: center;
+}
+
+.outOfCourt {
+    padding-left: 60px;
+}
+
+.firstYear {
+    padding-left: 2px;
+}
+
+/**
+
+*/
+
+@media screen and (min-width: 500px){ 
+
+    .studentCursus  {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    .firstYear , .secondYear, .outOfCourt {
+        margin-left: 20%;
+    }
+}
