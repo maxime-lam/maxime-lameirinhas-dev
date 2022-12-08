@@ -1,5 +1,5 @@
 .skill-card{
-    width: max-content;
+    width: content-box;
     padding: 8px 16px;
     height: 120px;
     display: flex;
@@ -10,12 +10,26 @@
     border-radius: 8px;
 }
 
+.hide {
+    display: none;
+}
+
+.skill-icon:hover + .hide {
+    display: block;
+    color: #f9f0ee;
+}
+
 .skill-icon {
     font-size: 80px;
 }
 
 .skill-name{
     font-size: 18px;
+    width: 100px;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
 }
 
 @media only screen and (max-width: 1024px) {
