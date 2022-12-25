@@ -1,6 +1,6 @@
 import React from "react";
 import DarkHome from "./components/dark/home/index"
-import CalcJs from './components/dark/body/projects/script-calcJs'
+import Menageleccsharp from "./components/dark/menageleccsharp";
 
 import {
   BrowserRouter,
@@ -15,6 +15,7 @@ function App() {
     <Routes>
       <Route path="/" element={<DarkHome/>} />
       <Route path="/calcjs" element={<DarkHome/>} />
+      <Route path="/menageleccsharp" element={<Menageleccsharp/>} />
     </Routes>
   </BrowserRouter>
 )}
