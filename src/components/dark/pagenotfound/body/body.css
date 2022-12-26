@@ -1,0 +1,17 @@
+.pagenotfoundbody{
+    color: #f9f0ee;
+    align-self: end;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    place-items: center;
+    padding-block: 20%;
+}
+span{
+    font-size: 4rem;
+    font-style: bold;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    accent-color: #f9f0ee;
+}

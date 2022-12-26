@@ -1,6 +1,7 @@
 import React from "react";
 import DarkHome from "./components/dark/home/index"
-import Menageleccsharp from "./components/dark/menageleccsharp";
+import Manageleccsharp from "./components/dark/manageleccsharp";
+import PageNotfound from "./components/dark/pagenotfound";
 
 import {
   BrowserRouter,
@@ -15,7 +16,8 @@ function App() {
     <Routes>
       <Route path="/" element={<DarkHome/>} />
       <Route path="/calcjs" element={<DarkHome/>} />
-      <Route path="/menageleccsharp" element={<Menageleccsharp/>} />
+      <Route path="/manageleccsharp" element={<Manageleccsharp/>} />
+      <Route path="/*" element={<PageNotfound/>} />
     </Routes>
   </BrowserRouter>
 )}

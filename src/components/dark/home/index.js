@@ -6,8 +6,8 @@ import Footer from "../footer/index";
 
 
 function Home() {
-  return ( <div className="homeDark
-  ">
+  return ( 
+  <div className="homeDark">
     <div>
         <Header />
     </div>

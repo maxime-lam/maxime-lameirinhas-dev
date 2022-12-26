@@ -17,10 +17,10 @@ export const ProjectData=[
     },
         {
         id:3,
-        title:"Menageleccsharp",
+        title:"Manageleccsharp",
         about: "Ce projet a été réalisé en septembre 2022. Il a été créé dans but de travailler le csharp et de créer un progitiel de gestion de commande.",
         tags:["C#"],
         image:"https://wichtech.com/wp-content/uploads/2016/09/noimg.jpg",
-        src:"/menageleccsharp"
+        src:"/manageleccsharp"
     }
 ];

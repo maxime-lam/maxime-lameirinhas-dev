@@ -1,11 +1,11 @@
 import React from "react";
-import "./menageleccsharp.css";
+import "./manageleccsharp.css";
 import Header from "../header/index";
 import Body from "./body/index";
 import Footer from "../footer/index";
 
 
-function Menageleccsharp() {
+function Manageleccsharp() {
     return ( 
     <div className="manageleccsharp">
       <div>
@@ -21,4 +21,4 @@ function Menageleccsharp() {
     );
   }
   
-  export default Menageleccsharp;
+  export default Manageleccsharp;
