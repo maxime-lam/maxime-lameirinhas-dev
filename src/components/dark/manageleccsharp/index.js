@@ -1,7 +1,8 @@
 import React from "react";
 import "./manageleccsharp.css";
 import Header from "../header/index";
-import Body from "./body/index";
+import About from "./about/index";
+import Features from "./features/index";
 import Footer from "../footer/index";
 
 
@@ -12,7 +13,10 @@ function Manageleccsharp() {
           <Header />
       </div>
       <div>
-          <Body />
+          <About />
+      </div>
+      <div>
+          <Features />
       </div>
       <div>
           <Footer />

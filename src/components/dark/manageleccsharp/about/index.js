@@ -1,8 +1,8 @@
 import React from "react";
-import "./body.css";
+import "./about.css";
 
 
-function Body() {
+function About() {
     return (
     <div className="body">
         <div className="about">
@@ -17,9 +17,12 @@ function Body() {
             <p>
                 L'application a été réalisé en  C# WinForm avec le framework .NET 6
             </p>
+            <p>
+                
+            </p>
         </div>
     </div>
     );
   }
   
-  export default Body;
+  export default About;
