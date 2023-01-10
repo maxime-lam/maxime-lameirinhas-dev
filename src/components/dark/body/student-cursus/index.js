@@ -4,7 +4,6 @@ import Separator from "../../../common/separator/index";
 import {StudentData} from "../../../data/studentCursus";
 import StudeCard from "./StudeCard";
 import "./StudentCursus.css"
-import { Row } from "react-bootstrap";
 
 function StudentCursus() {
   const data = StudentData;
