@@ -21,6 +21,20 @@ function About() {
                 
             </p>
         </div>
+        <div className="features">
+            <p>Les fonctionalité</p>
+            <ul>
+                 <li>Rechercher un client via son id</li>
+                 <li>Rechercher un client via ses commandes</li>
+                 <li>Rechercher une commande via son id</li>
+                 <li>Rechercher une commande via son client</li>
+                 <li>Vérifier l'état de payement d'une commande</li>
+                 <li>Changer l'état de payement d'une commande</li>
+                 <li>Vérifier l'état de l'expédition d'une commande</li>
+                 <li>Changer l'état de l'éxpédition d'une commande</li>
+                 <li>Consulter la fiche d'un produit</li>
+            </ul>
+        </div>
     </div>
     );
   }

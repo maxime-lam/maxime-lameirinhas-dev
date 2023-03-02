@@ -6,7 +6,6 @@ import Skills from "./skills/index";
 import StudentCursus from "./student-cursus/index";
 import Intern from "./intern/index";
 import Work from "./work/index";
-import Contact from "./contact/index";
 
 
 
@@ -31,9 +30,6 @@ function Body() {
     </section>
     <section id="work">
       <Work />
-    </section>
-    <section id="contact">
-      <Contact />
     </section>
   </div>
   );
