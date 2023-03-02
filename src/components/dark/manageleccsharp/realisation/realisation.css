@@ -1,0 +1,19 @@
+.body{
+	align-self: center;
+	align-items: center;
+}
+
+.realisation {
+	justify-content: center;
+	align-items: center;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+#loader{
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+	background: #2F4558 url('https://media.tenor.com/ynpNT3owqZwAAAAC/flashbang.gif') no-repeat center;
+	z-index: 999;
+}

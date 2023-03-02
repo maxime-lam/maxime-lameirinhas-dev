@@ -3,6 +3,12 @@ export const SkillsData = [
     type: "Front-End",
     list: [
       {
+        name: "Vue",
+        className: "VueJs",
+        icon: <i class="devicon-vuejs-plain colored"></i>
+      
+      },
+      {
         name: "ReactJS",
         className: "react",
         icon: <i class="devicon-react-original colored"></i>
@@ -21,7 +27,7 @@ export const SkillsData = [
         name: "JavaScript",
         className: "js",
         icon: <i class="devicon-javascript-plain colored"></i>
-      },
+      }, 
     ],
   },{
     type: "Back-End",
