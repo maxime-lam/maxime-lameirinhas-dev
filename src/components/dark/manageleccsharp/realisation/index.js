@@ -17,7 +17,7 @@ function Realisation() {
                                 J'ai commencer ce projet par la mise en place d'un graphique UML 
                                 qui permet de visualiser les Objets (Entité, Manager, Controler, ...)
                                 Nécessaire a la réalisation et au fonctionne de l'application et de
-                                la base de donnée
+                                la base de donnée cela à pris deux trois heures 
                             </p>
                         </div>
                         <li>Réalisation de la base de donnée</li>
@@ -55,10 +55,12 @@ function Realisation() {
                         <li>Correction des erreur </li>
                         <div>
                             <p>
-                                Après les test et l'énumération des erreurs trouvé lors de ceux si je l'ai ai corrigé. Il y avait une quizaine d'erreur qui était
-                                                            </p>
+                                Après les test et l'énumération des erreurs trouvé lors de ceux si je l'ai ai corrigé. Il y avait une quizaine d'erreur qui était principalement
+                                des erreur de vérification de saisie cette partie à pris une quarantaine d'heures 
+                             </p>
                         </div>
                 </ul>
+                <p>Total des heures: à peu près 170</p>
             </div>
         </div>
     </div>
