@@ -1,6 +1,7 @@
 import React from "react";
 import "./body.css";
 import About from "./about/index";
+import Citation from "./citation/index";
 import Projects from "./projects/index";
 import Skills from "./skills/index";
 import StudentCursus from "./student-cursus/index";
@@ -15,6 +16,9 @@ function Body() {
   <div className="body">
     <section id="about">
       <About />
+    </section>
+    <section id="citations">
+      <Citation />
     </section>
     <section id="projects">
       <Projects />
