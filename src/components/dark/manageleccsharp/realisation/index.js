@@ -52,17 +52,11 @@ function Realisation() {
                                 d'heures 
                             </p>
                         </div>
-                        <li>ifdhg</li>
+                        <li>Correction des erreur </li>
                         <div>
                             <p>
-                                Suite au dévellopement de l'application je me suis attardé 
-                                au différents test de l'application afin que les demandes du 
-                                "client" soit respecté et éviter les différents code erreurs
-                                et égallement de vérifier le bon fonctionnement de la vérification de 
-                                saisie afin d'éviter les erreurs ou les bugs lors de la persistance 
-                                en base de donnée. cette étapes a pris a peut près une vingtaine 
-                                d'heures 
-                            </p>
+                                Après les test et l'énumération des erreurs trouvé lors de ceux si je l'ai ai corrigé. Il y avait une quizaine d'erreur qui était
+                                                            </p>
                         </div>
                 </ul>
             </div>
