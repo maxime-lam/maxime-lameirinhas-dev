@@ -17,15 +17,17 @@ function Citation() {
         <div className="citations">
             <Separator />
             <label className="section-title">Citation Au Hasard</label>
-            <div className="citation-explain">
-                <p>
-                    Ci-dessous sera afficher une citation qui sera selectionné au hasard depuis 
-                    un fichier contenant plusieurs citation de différente personnes
-                </p>
-            </div>
-            <div className="citation">
-                <p className="text">"{citation.citation}"</p>
-                <p className="author">{citation.auteur}</p>
+            <div className="citation-section">
+                <div className="citation-explain">
+                    <p>
+                        Ci-dessous sera afficher une citation qui sera selectionné au hasard depuis 
+                        un fichier contenant plusieurs citation de différente personnes
+                    </p>
+                </div>
+                <div className="citation">
+                    <h3 className="text">"{citation.citation}"</h3>
+                    <p className="author">{citation.auteur}</p>
+                </div>
             </div>
         </div>
     );

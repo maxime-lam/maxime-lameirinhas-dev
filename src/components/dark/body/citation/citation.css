@@ -1,0 +1,22 @@
+.citations {
+    padding-bottom: 48px;
+}
+
+.ciation-section{
+    padding-left: 5%;
+}
+
+.citation-title {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.text{
+    padding-top: 20px;
+    font-style: italic;
+}
+
+.author{
+    padding-left: 45%;
+    font-weight: bold;
+}
