@@ -14,10 +14,10 @@ function App() {
   return (
   <BrowserRouter>
     <Routes>
-      <Route path="/" element={<DarkHome/>} />
-      <Route path="/calcjs" element={<DarkHome/>} />
-      <Route path="/manageleccsharp" element={<Manageleccsharp/>} />
-      <Route path="/*" element={<PageNotfound/>} />
+      <Route path="maxime-lameirinhas-dev/" element={<DarkHome/>} />
+      <Route path="maxime-lameirinhas-dev/calcjs" element={<DarkHome/>} />
+      <Route path="maxime-lameirinhas-dev/manageleccsharp" element={<Manageleccsharp/>} />
+      <Route path="maxime-lameirinhas-dev/*" element={<PageNotfound/>} />
     </Routes>
   </BrowserRouter>
 )}
