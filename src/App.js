@@ -14,10 +14,10 @@ function App() {
   return (
   <BrowserRouter>
     <Routes>
-      <Route path="/maxime-lameirinhas-dev/" element={<DarkHome/>} />
-      <Route path="/maxime-lameirinhas-dev/calcjs" element={<DarkHome/>} />
-      <Route path="/maxime-lameirinhas-dev/manageleccsharp" element={<Manageleccsharp/>} />
-      <Route path="/maxime-lameirinhas-dev/*" element={<PageNotfound/>} />
+      <Route path="https://maxime-lam.github.io/maxime-lameirinhas-dev/" element={<DarkHome/>} />
+      <Route path="https://maxime-lam.github.io/maxime-lameirinhas-dev/calcjs" element={<DarkHome/>} />
+      <Route path="https://maxime-lam.github.io/maxime-lameirinhas-dev/manageleccsharp" element={<Manageleccsharp/>} />
+      <Route path="https://maxime-lam.github.io/maxime-lameirinhas-dev/*" element={<PageNotfound/>} />
     </Routes>
   </BrowserRouter>
 )}
