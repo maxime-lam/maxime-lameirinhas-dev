@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/maxime-lameirinhas-dev/static/css/main.3f474518.css",
-    "main.js": "/maxime-lameirinhas-dev/static/js/main.76256d4d.js",
+    "main.js": "/maxime-lameirinhas-dev/static/js/main.2bb483ce.js",
     "static/js/787.749b4a44.chunk.js": "/maxime-lameirinhas-dev/static/js/787.749b4a44.chunk.js",
     "static/media/myPhoto.png": "/maxime-lameirinhas-dev/static/media/myPhoto.92cbd4cc71606c2e56be.png",
     "index.html": "/maxime-lameirinhas-dev/index.html",
     "main.3f474518.css.map": "/maxime-lameirinhas-dev/static/css/main.3f474518.css.map",
-    "main.76256d4d.js.map": "/maxime-lameirinhas-dev/static/js/main.76256d4d.js.map",
+    "main.2bb483ce.js.map": "/maxime-lameirinhas-dev/static/js/main.2bb483ce.js.map",
     "787.749b4a44.chunk.js.map": "/maxime-lameirinhas-dev/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f474518.css",
-    "static/js/main.76256d4d.js"
+    "static/js/main.2bb483ce.js"
   ]
 }

@@ -7,8 +7,8 @@ export const ProjectData=[
         image:"https://github.com/maxime-lam/project-img/blob/main/portfolio.PNG?raw=true",
         src:"https://maxime-lam.github.io/maxime-lameirinhas-dev/"
     },
-        {
-        id:3,
+    {
+        id:2,
         title:"Manageleccsharp",
         about: "Ce projet a été réalisé en septembre 2022. Il a été créé dans but de travailler le csharp et de créer un progitiel de gestion de commande.",
         tags:["C#"],
